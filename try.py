@@ -19,7 +19,7 @@ env.seed(1)
 MAX_EPISODE = 1000
 learning_rate = 0.01
 
-
+#############################
 # for i_episode in range(MAX_EPISODE):
 #     s = env.reset()
 #     t = 0
